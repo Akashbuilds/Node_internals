@@ -4,7 +4,8 @@
 </br>
 </br>
 
-```const x = setTimeout(() => {
+```
+const x = setTimeout(() => {
   console.log("Timer 1");
 }, 100);
 
